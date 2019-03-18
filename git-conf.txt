@@ -1,3 +1,5 @@
+Data 18/03/2019
+
 Configurar user name git
 # git config --global user.name "Mauro Cesar"
 
