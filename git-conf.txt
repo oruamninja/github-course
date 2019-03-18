@@ -1,0 +1,27 @@
+Configurar user name git
+# git config --global user.name "Mauro Cesar"
+
+Configurar email git
+# git config --global user.email "maurocesar.info@gmail.com"
+
+Configurar editor (nesse caso o vim)
+# git config --global core.editor vim
+
+Visualizar configurações do git
+# git config user.name
+# git config user.email
+
+Visualizar todas a configurações do git
+# git config --list
+
+Inicializar o respositório git
+# git init
+
+Status
+# git status
+
+Adicionar arquivo
+# git add <nome do arquivo>
+
+Criar um snapshot, uma versão com os arquivos adicionados
+# git commit -m "mensagem"
