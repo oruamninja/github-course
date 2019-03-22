@@ -27,3 +27,6 @@ Adicionar arquivo
 
 Criar um snapshot, uma versão com os arquivos adicionados
 # git commit -m "mensagem"
+
+Gerar chave rsa
+# ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
